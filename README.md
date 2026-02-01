@@ -187,13 +187,9 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br><br>
-
 ### 📈 Contribution Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=ffffff&color=2e3440&line=88c0d0&point=5e81ac&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-
-<br>
 
 ### 📊 Quick Stats
 
@@ -210,9 +206,7 @@
     </td>
   </tr>
 </table>
-
 </div>
-
 ---
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
