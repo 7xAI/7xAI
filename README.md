@@ -172,35 +172,40 @@
 ---
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB ANALYTICS - SIMPLE & RELIABLE           -->
+<!--                    GITHUB ACTIVITY                                -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=7xAI&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7xAI&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
+## 📊 GitHub Activity
 
 <br>
 
-<div align="center">
+### 🔥 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br><br>
+
+### 📈 Quick Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Total_Commits-722+-blue?style=for-the-badge&logo=github" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Profile_Since-2018-success?style=for-the-badge&logo=github" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Active_Status-Daily-green?style=for-the-badge&logo=github" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -262,18 +267,59 @@
 ---
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    CONTRIBUTION ACTIVITY                          -->
+<!--                    CORE COMPETENCIES                              -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 🐍 Contribution Activity
+## 💪 Core Competencies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake.svg" />
-</picture>
+</div>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎯 Frontend Excellence</h3>
+      <br>
+      ✅ Responsive Web Design<br>
+      ✅ Modern JavaScript (ES6+)<br>
+      ✅ React & Component Architecture<br>
+      ✅ CSS Frameworks & Styling<br>
+      ✅ Cross-Browser Compatibility<br>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Proficiency</h3>
+      <br>
+      ✅ RESTful API Development<br>
+      ✅ Database Design & Optimization<br>
+      ✅ Server-Side Logic<br>
+      ✅ Authentication & Security<br>
+      ✅ Performance Optimization<br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛠️ Development Practices</h3>
+      <br>
+      ✅ Version Control (Git)<br>
+      ✅ Agile Methodologies<br>
+      ✅ Code Review & Testing<br>
+      ✅ Documentation<br>
+      ✅ Debugging & Troubleshooting<br>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Design & UX</h3>
+      <br>
+      ✅ UI/UX Best Practices<br>
+      ✅ Wireframing & Prototyping<br>
+      ✅ User-Centered Design<br>
+      ✅ Accessibility Standards<br>
+      ✅ Design Systems<br>
+    </td>
+  </tr>
+</table>
 
 </div>
 
