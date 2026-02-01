@@ -139,28 +139,18 @@
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--              GITHUB STATS SECTION                                 -->
+<!--              GITHUB STATS SECTION - SIMPLE VERSION                -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/stats.gif" height="24" width="24" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/stats.gif" height="24" width="24" /> GitHub Activity
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/7xAI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7xAI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
+<!-- Contribution Streak -->
 <a href="https://github.com/7xAI">
   <img src="https://streak-stats.demolab.com?user=7xAI&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak" />
 </a>
@@ -172,15 +162,6 @@
 <!-- Activity Graph -->
 <a href="https://github.com/7xAI">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- Trophies -->
-<a href="https://github.com/7xAI">
-  <img src="https://github-profile-trophy.vercel.app/?username=7xAI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </a>
 
 </div>
