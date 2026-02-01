@@ -172,7 +172,7 @@
 ---
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB ANALYTICS - 2 COLUMNS                   -->
+<!--                    GITHUB ANALYTICS - SIMPLE & RELIABLE           -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -185,11 +185,11 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=7xAI&theme=nord&hide_border=true" alt="GitHub Streak" width="100%" />
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=7xAI&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7xAI&layout=compact&langs_count=8&theme=nord&hide_border=true" alt="Top Languages" width="100%" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7xAI&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -200,7 +200,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=ECEFF4&color=2E3440&line=88C0D0&point=5E81AC&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph" width="100%" />
 
 </div>
 
