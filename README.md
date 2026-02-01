@@ -179,8 +179,6 @@
 
 ## 📊 GitHub Activity
 
-<br>
-
 ### 🔥 Contribution Snake
 
 <picture>
@@ -195,7 +193,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=ffffff&color=2e3440&line=88c0d0&point=5e81ac&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
-<br><br>
+<br>
 
 ### 📊 Quick Stats
 
@@ -269,66 +267,6 @@
 <sub>⭐ Pin your top repositories on GitHub to automatically showcase them here</sub>
 
 </div>
-
----
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                    CORE COMPETENCIES                              -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## 💪 Core Competencies
-
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎯 Frontend Excellence</h3>
-      <br>
-      ✅ Responsive Web Design<br>
-      ✅ Modern JavaScript (ES6+)<br>
-      ✅ React & Component Architecture<br>
-      ✅ CSS Frameworks & Styling<br>
-      ✅ Cross-Browser Compatibility<br>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Backend Proficiency</h3>
-      <br>
-      ✅ RESTful API Development<br>
-      ✅ Database Design & Optimization<br>
-      ✅ Server-Side Logic<br>
-      ✅ Authentication & Security<br>
-      ✅ Performance Optimization<br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🛠️ Development Practices</h3>
-      <br>
-      ✅ Version Control (Git)<br>
-      ✅ Agile Methodologies<br>
-      ✅ Code Review & Testing<br>
-      ✅ Documentation<br>
-      ✅ Debugging & Troubleshooting<br>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎨 Design & UX</h3>
-      <br>
-      ✅ UI/UX Best Practices<br>
-      ✅ Wireframing & Prototyping<br>
-      ✅ User-Centered Design<br>
-      ✅ Accessibility Standards<br>
-      ✅ Design Systems<br>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
