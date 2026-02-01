@@ -139,7 +139,7 @@
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--              GITHUB STATS SECTION - SIMPLE VERSION                -->
+<!--              GITHUB ACTIVITY - 2 COLUMN LAYOUT (CLEAN)            -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
@@ -150,16 +150,22 @@
 
 <div align="center">
 
-<!-- Contribution Streak -->
-<a href="https://github.com/7xAI">
-  <img src="https://streak-stats.demolab.com?user=7xAI&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak" />
-</a>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=7xAI&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=7xAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <div align="center">
 
-<!-- Activity Graph -->
+<!-- Activity Graph - Full Width -->
 <a href="https://github.com/7xAI">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </a>
