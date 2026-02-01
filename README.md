@@ -1,119 +1,117 @@
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                     HACKER THEME HEADER                           -->
+<!--                    PROFESSIONAL HEADER                            -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```
-██╗  ██╗███████╗██╗  ██╗     ██╗  ██╗ ██████╗ ██╗  ██╗
-██║  ██║██╔════╝╚██╗██╔╝     ██║  ██║██╔═████╗██║  ██║
-███████║█████╗   ╚███╔╝█████╗███████║██║██╔██║███████║
-██╔══██║██╔══╝   ██╔██╗╚════╝╚════██║████╔╝██║╚════██║
-██║  ██║███████╗██╔╝ ██╗          ██║╚██████╔╝     ██║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝          ╚═╝ ╚═════╝      ╚═╝
-    [ SYSTEM ERROR ] - [ WEB DEVELOPER ] - [ BUILDING THE FUTURE ]
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=root%40hex404~%23+sudo+npm+run+dev;%3E+Initializing+neural+network...;%3E+Compiling+reality.js;%3E+Building+the+future%2C+one+commit+at+a+time;%3E+Access+granted.+Welcome%2C+developer." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:434C5E&height=200&section=header&text=HEX_404&fontSize=70&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%" />
 
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   PROFILE TERMINAL                                -->
+<!--                    TYPING ANIMATION                               -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/profile]
-└─$ whoami
-```
-
-<img src="https://github.com/7xAI.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #00FF41;" alt="HEX_404" />
-
-### 👾 HEX_404 | SYSTEM ADMINISTRATOR 👾
-
-```bash
-┌──(hex404㉿github)-[~/status]
-└─$ cat status.txt
-```
-
-</div>
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=serverfault&logoColor=00FF41&labelColor=0d1117)
-![Coding](https://img.shields.io/badge/CODING-ACTIVE-00FF41?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41&labelColor=0d1117)
-![Security](https://img.shields.io/badge/SECURITY-ENCRYPTED-00FF41?style=for-the-badge&logo=letsencrypt&logoColor=00FF41&labelColor=0d1117)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Scalable+Applications;Clean+Code+%7C+Modern+Design+%7C+Best+Practices;Transforming+Ideas+into+Digital+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   SOCIAL NETWORK MATRIX                           -->
+<!--                    PROFILE OVERVIEW                               -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/networks]
-└─$ ls -la connections/
-```
+<img src="https://github.com/7xAI.png" width="180" height="180" style="border-radius: 50%; border: 4px solid #88C0D0; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="HEX_404" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-7xAI-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117)](https://github.com/7xAI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sevenxai-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://linkedin.com/in/sevenxai)
-[![Twitter](https://img.shields.io/badge/Twitter-sevenxai-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FF41&labelColor=0d1117)](https://twitter.com/sevenxai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sevenxai-FF0080?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0d1117)](https://sevenxai.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Encrypted-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:contact@sevenxai.com)
+<h2>💼 Hex_404 | System Administrator</h2>
 
-![Visitors](https://komarev.com/ghpvc/?username=7xAI&color=00FF41&style=for-the-badge&label=VISITORS)
+<p><i>Full Stack Developer | UI/UX Enthusiast | Open Source Contributor</i></p>
 
 </div>
 
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   SYSTEM INFORMATION                              -->
+<!--                    STATUS BADGES                                  -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/system]
-└─$ cat /proc/developer/info
-```
+![Status](https://img.shields.io/badge/Status-Available_for_Hire-success?style=flat-square&logo=checkmarx&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full_Stack_Development-blue?style=flat-square&logo=stack-overflow&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Cambodia-red?style=flat-square&logo=google-maps&logoColor=white)
 
 </div>
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║  DEVELOPER PROFILE :: HEX_404                                    ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  🔧  [BUILDING] Polished, responsive & fast web applications     ║
-║                                                                  ║
-║  🎨  [DESIGN]   Clean UI/UX with pixel-perfect precision         ║
-║                                                                  ║
-║  🌐  [LEARNING] Always upgrading... always shipping              ║
-║                                                                  ║
-║  🤝  [COLLAB]   Open to collaborations & open-source projects    ║
-║                                                                  ║
-║  🚀  [MISSION]  Turning ideas → reality, one commit at a time    ║
-║                                                                  ║
-║  ☕  [POWERED]  Coffee, curiosity & clean code                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   TECH STACK MATRIX                               -->
+<!--                    PROFESSIONAL LINKS                             -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/arsenal]
-└─$ sudo apt list --installed
-```
+<h3>📫 Connect With Me</h3>
 
-## 🛡️ TECH ARSENAL 🛡️
+[![GitHub](https://img.shields.io/badge/GitHub-7xAI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7xAI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sevenxai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sevenxai)
+[![Twitter](https://img.shields.io/badge/Twitter-sevenxai-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sevenxai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sevenxai.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sevenxai.vercel.app)
+[![Email](https://img.shields.io/badge/Email-contact@sevenxai.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sevenxai.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=7xAI&color=88C0D0&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!--                    PROFESSIONAL SUMMARY                           -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 👨‍💻 Professional Summary
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50">🎯</td>
+    <td><b>Mission:</b> Building scalable, high-performance web applications with modern technologies</td>
+  </tr>
+  <tr>
+    <td align="center" width="50">💡</td>
+    <td><b>Approach:</b> Clean code, best practices, and user-centered design principles</td>
+  </tr>
+  <tr>
+    <td align="center" width="50">🚀</td>
+    <td><b>Focus:</b> Full-stack development with React, Node.js, and cloud technologies</td>
+  </tr>
+  <tr>
+    <td align="center" width="50">🤝</td>
+    <td><b>Collaboration:</b> Open to partnerships, freelance projects, and open-source contributions</td>
+  </tr>
+  <tr>
+    <td align="center" width="50">📚</td>
+    <td><b>Learning:</b> Continuously expanding expertise in emerging web technologies</td>
+  </tr>
+  <tr>
+    <td align="center" width="50">⚡</td>
+    <td><b>Specialty:</b> Transforming complex requirements into elegant solutions</td>
+  </tr>
+</table>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!--                    TECHNICAL SKILLS                               -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 🛠️ Technical Skills
 
 </div>
 
@@ -122,25 +120,28 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <h3>🎨 Frontend Development</h3>
       <br>
-      <code style="color: #00FF41;">▰▰▰ FRONTEND ▰▰▰</code>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" alt="Frontend" />
       <br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend" />
-      <br>
+      <code>HTML5 • CSS3 • JavaScript</code><br>
+      <code>React • Tailwind CSS</code>
     </td>
     <td align="center" width="33%">
+      <h3>⚙️ Backend & Database</h3>
       <br>
-      <code style="color: #00FF41;">▰▰▰ BACKEND ▰▰▰</code>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=light" alt="Backend" />
       <br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" alt="Backend" />
-      <br>
+      <code>Node.js • Express.js</code><br>
+      <code>MongoDB • REST APIs</code>
     </td>
     <td align="center" width="33%">
+      <h3>🔧 Development Tools</h3>
       <br>
-      <code style="color: #00FF41;">▰▰▰ DEVTOOLS ▰▰▰</code>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=light" alt="Tools" />
       <br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Tools" />
-      <br>
+      <code>Git • GitHub • VS Code</code><br>
+      <code>Figma • npm</code>
     </td>
   </tr>
 </table>
@@ -149,38 +150,34 @@
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/arsenal]
-└─$ cat tech_stack.log
-```
+### Technologies & Frameworks
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=00FF41&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=00FF41&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=00FF41&labelColor=0d1117)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00FF41&labelColor=0d1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=00FF41&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41&labelColor=0d1117)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=00FF41&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
+---
+
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   GITHUB STATISTICS                               -->
+<!--                    GITHUB ANALYTICS                               -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/stats]
-└─$ ./analyze_activity.sh
-```
-
-## 📊 SYSTEM ANALYTICS 📊
+## 📊 GitHub Analytics
 
 </div>
 
@@ -188,11 +185,11 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=7xAI&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=00FF41&dates=00FF41&sideLabels=00FF41" alt="Streak" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=7xAI&show_icons=true&theme=nord&hide_border=true&bg_color=ECEFF4&title_color=2E3440&text_color=3B4252&icon_color=88C0D0&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=7xAI&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" alt="Languages" width="100%"/>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=7xAI&layout=compact&langs_count=8&theme=nord&hide_border=true&bg_color=ECEFF4&title_color=2E3440&text_color=3B4252" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -201,113 +198,156 @@
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/stats]
-└─$ ./generate_activity_graph.sh
-```
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=0d1117&color=00FF41&line=00FF41&point=00FF41&area=true&hide_border=true&area_color=00FF41" alt="Activity Graph" width="100%"/>
-
-</div>
-
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   PROJECT ARCHIVE                                 -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-```bash
-┌──(hex404㉿github)-[~/projects]
-└─$ ls -lh featured/
-```
-
-## 🗂️ FEATURED PROJECTS 🗂️
+<img src="https://streak-stats.demolab.com?user=7xAI&theme=nord&hide_border=true&background=ECEFF4&stroke=3B4252&ring=88C0D0&fire=BF616A&currStreakLabel=2E3440&sideNums=2E3440&currStreakNum=88C0D0&dates=5E81AC&sideLabels=2E3440" alt="GitHub Streak" width="60%"/>
 
 </div>
 
 <div align="center">
 
-| 🔐 | 📦 PROJECT | 📝 DESCRIPTION | ⚙️ TECH | 🔗 ACCESS |
-|:---:|:---|:---|:---|:---:|
-| `01` | **Project Alpha** | Next-gen web application with AI integration | `React` `Node.js` `AI` | [→](#) |
-| `02` | **Project Beta** | Real-time dashboard with analytics | `HTML` `CSS` `JS` | [→](#) |
-| `03` | **Project Gamma** | Full-stack e-commerce platform | `Next.js` `MongoDB` | [→](#) |
-
-> 💡 **TIP:** Pin your top repos to your GitHub profile to auto-populate this section!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7xAI&bg_color=ECEFF4&color=2E3440&line=88C0D0&point=5E81AC&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
+---
+
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   CONTRIBUTION SNAKE                              -->
+<!--                    FEATURED PROJECTS                              -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/activity]
-└─$ python3 generate_snake.py
-```
+## 💼 Featured Projects
 
-## 🐍 CONTRIBUTION MATRIX 🐍
+</div>
+
+<div align="center">
+
+> 💡 **Showcasing professional work and contributions**
+
+<table>
+  <thead>
+    <tr>
+      <th width="5%">#</th>
+      <th width="25%">Project</th>
+      <th width="45%">Description</th>
+      <th width="15%">Technologies</th>
+      <th width="10%">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td><b>Project Alpha</b></td>
+      <td>Enterprise-grade web application with real-time features</td>
+      <td><code>React</code> <code>Node.js</code></td>
+      <td align="center"><a href="#">🔗</a></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td><b>Project Beta</b></td>
+      <td>Modern dashboard with data visualization and analytics</td>
+      <td><code>HTML5</code> <code>CSS3</code> <code>JS</code></td>
+      <td align="center"><a href="#">🔗</a></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td><b>Project Gamma</b></td>
+      <td>Full-stack e-commerce platform with secure payment integration</td>
+      <td><code>Next.js</code> <code>MongoDB</code></td>
+      <td align="center"><a href="#">🔗</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<sub>⭐ Pin your top repositories on GitHub to automatically showcase them here</sub>
+
+</div>
+
+---
+
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!--                    CONTRIBUTION ACTIVITY                          -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+## 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/7xAI/7xAI/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
+---
+
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   CONNECTION PROTOCOLS                            -->
+<!--                    CONTACT & COLLABORATION                        -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/contact]
-└─$ ./establish_connection.sh
-```
+## 🤝 Let's Collaborate
 
-## 🔌 ESTABLISH CONNECTION 🔌
+<p>I'm always interested in discussing new projects, creative ideas, or opportunities to contribute to innovative solutions.</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117)](https://github.com/7xAI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117)](https://linkedin.com/in/sevenxai)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00FF41&labelColor=0d1117)](https://twitter.com/sevenxai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF0080?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=0d1117)](https://sevenxai.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117)](mailto:contact@sevenxai.com)
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/7xAI">
+        <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br>
+      <sub>Follow my work</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://linkedin.com/in/sevenxai">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <br>
+      <sub>Professional network</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://sevenxai.vercel.app">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <br>
+      <sub>View my work</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:contact@sevenxai.com">
+        <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <br>
+      <sub>Get in touch</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+---
+
 <!-- ██████████████████████████████████████████████████████████████████ -->
-<!--                   SYSTEM FOOTER                                   -->
+<!--                    FOOTER                                         -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-```bash
-┌──(hex404㉿github)-[~/]
-└─$ echo "Mission Status"
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,50:3B4252,100:434C5E&height=120&section=footer" width="100%"/>
 
-```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║     [✓] PASSION     [✓] CURIOSITY     [✓] CLEAN CODE      ║
-║                                                            ║
-║              >>> HEX_404 | 7xAI <<<                        ║
-║                                                            ║
-║         Built with 💚 in the digital realm                 ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<br>
 
-```bash
-┌──(hex404㉿github)-[~/]
-└─$ exit
-> Connection closed. See you in the matrix...
-```
+<sub>💼 <b>HEX_404</b> • Professional Web Developer</sub>
+<br>
+<sub>Built with precision • Powered by innovation • Driven by excellence</sub>
+<br><br>
+<sub>⭐ If you find my work valuable, consider starring the repositories!</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Made_with-❤️_and_☕-red?style=for-the-badge" />
 
 </div>
